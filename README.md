@@ -46,7 +46,7 @@ You'r good to go...
 1. Open vs code terminal and run this code👇
 
 ```
-git clone
+git clone https://github.com/AtulVermaGithub/NextJS-14-Authentication.git
 ```
 
 4. Again run this code👇
