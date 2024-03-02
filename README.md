@@ -2,7 +2,7 @@
 
 ---
 
-In our Next.js project, we are implementing authentication using <a href="https://authjs.dev/reference/nextjs">Auth-Js version 5</a>. This powerful library allows us to easily handle user authentication and authorization. By integrating Auth-Js with Next.js, we can securely manage user sessions, handle user registration and login, and enforce access control to protect sensitive routes and resources.</br>
+In our Next.js project, we are implementing authentication using <a href="https://authjs.dev/reference/nextjs" target="_blank">Auth-Js version 5</a>. This powerful library allows us to easily handle user authentication and authorization. By integrating Auth-Js with Next.js, we can securely manage user sessions, handle user registration and login, and enforce access control to protect sensitive routes and resources.</br>
 With Auth-Js, we can provide a seamless and secure authentication experience for our users, ensuring the privacy and integrity of their data.
 
 - # For setup in an existing project.
